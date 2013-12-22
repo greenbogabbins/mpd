@@ -1,5 +1,5 @@
-Nothing much to see except my mpd config file (pretty standard, using
-alsa and visualizations as outputs).
+Nothing much to see except my mpd config file. Pretty standard, using
+both alsa and fifo (visualization) outputs.
 
 mike green
 december 2013
